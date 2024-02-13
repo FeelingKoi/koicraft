@@ -1,4 +1,5 @@
-# koicraft
+# Koicraft
+### A Minecraft Texture Pack
 I hate the Grey UI
 
 ## what is this?
