@@ -14,5 +14,5 @@ End goal is to maybe make a fully-custom textured mod-pack that can work for my 
 
 ## Notes and Plans
 ### To Do
-[x] Finish Containers
-[] Finish Widgets and Icons
+- [x] Finish Containers
+- [ ] Finish Widgets and Icons
