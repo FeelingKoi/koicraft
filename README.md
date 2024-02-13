@@ -1,4 +1,4 @@
-# Koicraft
+# 💜 Koicraft
 *A Minecraft Texture Pack / Resource Pack based around FeelingKoi*
 
 ## About Koicraft
