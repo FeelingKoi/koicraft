@@ -19,3 +19,4 @@ End goal is to maybe make a fully-custom textured mod-pack that can work for my 
 - [ ] Finish Widgets and Icons
 - [ ] Make better Logo
 - [ ] Clean up Title Screen 
+- [ ] Crafting / Work Block Models
